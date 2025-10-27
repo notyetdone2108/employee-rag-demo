@@ -1,0 +1,5 @@
+schema_version: 1
+
+app:
+  name: "employeeda3hboard"
+  entry_point: "python -m streamlit run /Workspace/Users/suryasup2@gmail.com/employee_rag_root/employee-rag-demo/app.py --server.headless true --server.port 8051"
